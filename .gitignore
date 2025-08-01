@@ -1,1 +1,5 @@
 .vscode
+output
+*.exe
+*.o
+build
